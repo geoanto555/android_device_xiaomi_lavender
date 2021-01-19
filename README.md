@@ -17,24 +17,24 @@ Release Date |  2019, February 28
 
 ------------------------------------
 
-## Working
+## Working:
 
-ADB
+- adb
 
-Decryption userdata
+- Decryption userdata
 
-Screen brightness settings
+- Screen brightness settings
 
-Correct screenshot color
+- Correct screenshot color
 
-MTP
+- MTP
 
-## To compile
+## To compile:
 
-build/envsetup.sh
+- build/envsetup.sh
 
-export ALLOW_MISSING_DEPENDENCIES=true
+- export ALLOW_MISSING_DEPENDENCIES=true
 
-lunch omni_lavender-eng
+- lunch omni_lavender-eng
 
-make -jX recoveryimage
+- make -jX recoveryimage
